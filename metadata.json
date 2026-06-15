@@ -1,0 +1,6 @@
+{
+  "name": "Tic-Tac-Toe Multiplayer",
+  "description": "Real-time, multiplayer Tic-Tac-Toe game using Socket.io and Next.js, with an unbeatable AI option and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
